@@ -1,2 +1,4 @@
-printf("\n");
-    printList(list1);
+ if(temp->next == NULL)
+        {
+            endPoint = temp;
+        }
